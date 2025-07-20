@@ -1,0 +1,9 @@
+[package]
+name = "bibids"
+version = "0.1.0"
+edition = "2024"
+author = "Nico Wagner <nwagner84@nicowagner.me>"
+license = "EUPL-1.2"
+
+
+[dependencies]
